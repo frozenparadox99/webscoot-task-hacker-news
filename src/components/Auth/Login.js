@@ -29,6 +29,7 @@ function Login(props) {
         ? await firebase.login(email, password)
         : await firebase.register(name, email, password);
       console.log({ response });
+      props.history.push("/");
     } catch (err) {
       console.error("Auth error", err);
       setFirebaseError(err.message);
