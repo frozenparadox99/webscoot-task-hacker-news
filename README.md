@@ -1,4 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hacker News Webscoot Task
+
+Deployed at https://hooks-news-app-811d6.web.app/
+
+## Stack details
+- React frontend
+- Context API for state management
+- Firebase Auth API for logging in and registering users
+- Firestore for the real time database
+- Firebase for deployment
+
+## Site functionality
+
+<a href="https://imgur.com/Smwch2s"><img src="https://i.imgur.com/Smwch2s.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/AmSstFZ"><img src="https://i.imgur.com/AmSstFZ.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/tQ0Z9Z3"><img src="https://i.imgur.com/tQ0Z9Z3.png" title="source: imgur.com" /></a>
 
 ## Available Scripts
 
